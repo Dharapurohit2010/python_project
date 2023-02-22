@@ -21,6 +21,8 @@ for i in range(0, len(numbers)):
      print(numbers[i])
     if numbers[i]==24:
      continue
-    print(numbers[i])
-
+     print(numbers[i])
      break
+#####foreach loop
+for i in colors:
+    print(i)
